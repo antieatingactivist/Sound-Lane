@@ -21,7 +21,7 @@ A web based service using API's to search for data on your favorite or new artis
 
 ## Deployed Link
 
-* [See Live Site](https://samuellutz.github.io/Sound-Lane/)
+* [See Live Site](https://platevoltage.github.io/Sound-Lane/)
 
 ![link demo](https://user-images.githubusercontent.com/91674571/149679364-ede25e69-27c2-4d2c-bc6a-5262a254649f.gif)
 
@@ -32,8 +32,8 @@ A web based service using API's to search for data on your favorite or new artis
 ## Authors
 
 * **Garrett Corbin** 
-- [Link to Portfolio Site](https://antieatingactivist.github.io/portfolio/)
-- [Link to Github](https://github.com/antieatingactivist)
+- [Link to Portfolio Site](https://platevoltage.github.io/portfolio/)
+- [Link to Github](https://github.com/platevoltage)
 - [Link to LinkedIn](https://www.linkedin.com/in/garrett-corbin-7a7777227/)
 
 * **Millard Chambers** 
